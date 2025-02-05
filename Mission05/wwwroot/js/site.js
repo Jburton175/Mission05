@@ -1,5 +1,5 @@
 ﻿$(document).ready(function () {
-
+    //wait until the button has been clicked
     $("#calculateTotal").click(function () { 
 
     var hours = parseFloat($("#hours").val());
